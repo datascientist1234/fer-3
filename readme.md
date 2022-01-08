@@ -43,7 +43,7 @@ Convolutional Neural Network is one of the technique to do image classification 
 
 ![This is an image](https://static.javatpoint.com/tutorial/tensorflow/images/convolutional-neural-network-in-tensorflow.png)
 
-Architecture:
+**Architecture**:
 
 1. INPUT layer will hold the raw pixel values of the image
 2. CONVOLUTION layer will compute the output of neurons that are connected to local regions in the input, each computing a dot product between their weights and a small region they are connected to in the input volume.
