@@ -26,7 +26,7 @@ The final layer consists of activation function - *Softmax* for final prediction
    
    `python camera_app.py`
    
- > NOTE - Press 'q' to quit
+   > NOTE - Press 'q' to quit
 
 ## Dependencies
 
