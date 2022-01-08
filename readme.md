@@ -18,7 +18,7 @@ The final layer consists of activation function - *Softmax* for final prediction
 1. install python
 2. open cmd and run the following commands
 
-   `git clone https://github.com/avilashsrivastava/Face-Emotion-Recognition.git`
+   `git clone https://github.com/
    
    `cd Face-Emotion-Recognition`
    
@@ -34,7 +34,7 @@ Python 3\
 Tensorflow\
 Streamlit\
 Streamlit-Webrtc\
-OpenCV\
+OpenCV
 
 ## CNN Model
 
