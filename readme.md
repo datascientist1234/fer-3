@@ -39,7 +39,7 @@ OpenCV\
 ## CNN Model
 
 
-Convolutional Neural Network is one of the technique to do image classification and image recognition in neural networks. A simple ConvNet is a sequence of layers, and every layer of a ConvNet transforms one volume of activations to another through a differentiable function. We use three main types of layers to build ConvNet architectures: Convolutional Layer, Pooling Layer, and Fully-Connected Layer. Our model consists of 4 convolutional/pooling layers and 2 Fully connected layers.
+Convolutional Neural Network is one of the technique to do image classification and image recognition in neural networks. A simple ConvNet is a sequence of layers, and every layer of a ConvNet transforms one volume of activations to another through a differentiable function. We use three main types of layers to build ConvNet architectures: Convolutional Layer, Pooling Layer, and Fully-Connected Layer.
 
 ![This is an image](https://static.javatpoint.com/tutorial/tensorflow/images/convolutional-neural-network-in-tensorflow.png)
 
