@@ -1,5 +1,5 @@
 # REAL TIME FACE EMOTION RECOGNITION
-**Deep Learning + Machine Learning Engineering** data science project.
+**Deep Learning + Machine Learning Engineering** project.
 
 ## INTRODUCTION
 This is an application that detects facial expressions in real time using a camera. The datset used for model training is [FER-2013](https://www.kaggle.com/msambare/fer2013).
